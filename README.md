@@ -120,6 +120,7 @@ The project organizes the selected indicators into seven categories.
 ## Power BI Dashboard
 
 The **World Indicators Analysis** dashboard uses a dark green theme with contrasting text, KPI cards, charts, tables, a heatmap, and year-based controls.
+<img width="1113" height="742" alt="Screenshot 2026-10-21 163210" src="https://github.com/user-attachments/assets/7f0eab5d-1c23-4016-a7b7-5b893d8ee799" />
 
 ### Dashboard Components
 
@@ -241,8 +242,9 @@ python Python_Script.Py
 The script requests data from the World Bank API, processes the responses, and prepares category-specific datasets. An internet connection is required to retrieve fresh API data.
 
 ### 5. Explore the Power BI dashboard
+Open Power BI Desktop and connect to the prepared CSV datasets. Recreate or refresh the report using the appropriate dataset relationships, measures, and visualizations.
 
-<img width="1113" height="742" alt="Screenshot 2026-10-21 163210" src="https://github.com/user-attachments/assets/64ebb811-1ef6-4dc9-8942-4e5d9995e140" />
+The published repository currently contains the Python files and CSV datasets. The Power BI report file can be added separately if you choose to share it.
 
 
 ## Key Learnings
